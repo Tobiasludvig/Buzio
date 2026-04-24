@@ -70,6 +70,21 @@
 
 ---
 
+## Tidlig surveydata (N=20)
+
+Første batch respondenter indsamlet parallelt med sekundær research. Ikke statistisk repræsentativt men indikativt.
+
+| Spørgsmål | Fund |
+|---|---|
+| Hvad vægter du højest ved valg af bar? | 70% vægter stemning højest |
+| Hvordan opdager du nye steder? | 60% via venner/anbefalinger · 35% via sociale medier |
+| Køn | 65% kvinder |
+| Alder | Flest respondenter 21–25 år |
+
+**Relevans for hypoteser:** Stemning-tallet (70%) understøtter H1a direkte. Kvindeprocenten (65%) understøtter H1. Venner-kanalen (60%) understøtter H5. SoMe som opdagelseskanal (35%) er lavere end antaget — understøtter at TikTok/UGC driver discovery snarere end Búzios egne kanaler (H2/H3).
+
+---
+
 ## Metodisk note
 
 Alle konklusioner formuleres som *"data understøtter hypotesen"* — ikke *"data beviser hypotesen."*  
