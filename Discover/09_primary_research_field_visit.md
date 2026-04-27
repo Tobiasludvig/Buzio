@@ -9,6 +9,8 @@ Feltbesøget fandt sted fredag den 25. april 2026 og udgør projektets primære,
 
 Feltbesøget er ikke gennemført med en foruddesignet observationsguide, hvilket er en metodisk begrænsning der reducerer systematikken men ikke ugyldiggør de kvalitative fund. Et supplerende feltbesøg med struktureret observationsguide anbefales inden Define-fasen afsluttes.
 
+Ubehandlede rå noter fra feltbesøget er bevaret uden redigering i `10_primary_research_field_visit_raw_notes.md`.
+
 ---
 
 ## Del 1 — Egne observationer
@@ -92,7 +94,7 @@ Interviewet bidrager ikke med validerede brugerindsigter i metodisk forstand, me
 
 | Hypotese | Status | Belæg |
 |---|---|---|
-| H5 — Mund-til-mund via kulturelite | Understøttet med nuance | Loyalitet er interpersonel, ikke brandbaseret |
+| H5 — Mund-til-mund via kulturelite | Understøttet med nuance | Loyalitet er interpersonel, ikke brandbaseret — identificeret sårbarhed |
 | H1 — Feminint kodet drikkevalg | Understøttet | Gruppen selv og deres beskrivelse af øvrige gæster |
 | H3 — Digitalt-fysisk gab | Indirekte | Fanerne som uventet visuelt anker antyder kommunikationsgab |
 
@@ -104,4 +106,4 @@ De tre datakilder fra feltbesøget har forskellig epistemisk status og bør ikke
 
 ---
 
-*Feltbesøg gennemført april 2026. Primær dataindsamling — supplement til sekundær research og online survey (N=36).*
+*Feltbesøg gennemført fredag 25. april 2026. Primær dataindsamling — supplement til sekundær research og online survey (N=36). Rå noter: se `10_primary_research_field_visit_raw_notes.md`.*

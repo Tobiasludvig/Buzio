@@ -46,6 +46,9 @@ Hvordan kan vi løfte Búzio Tabernas digitale tilstedeværelse til et niveau, d
 - Forretning: 8%
 - Teknologi: 8%
 
+**Varighed:** 7 uger til produkt + rapport, efterfulgt af 3 ugers eksamensperiode.  
+**Vurderingsprincip:** Studerende vurderes på egne faglige valg — ikke på kundens ønsker.
+
 ---
 
 ## Nøgleindsigter fra ejerinterviewet (Martin)
@@ -66,10 +69,11 @@ Hvordan kan vi løfte Búzio Tabernas digitale tilstedeværelse til et niveau, d
 ## Tekniske rammer
 
 - CMS kræves (ingen kodekompetencer hos Búzio efter overdragelse)
-- Framer foretrækkes over WordPress — pixel-perfect, høj designfrihed
-- Webshop med lagerstyring inkl. restlager
-- Eventbooking integreres eksternt
-- Metode: Double Diamond
+- Framer foretrækkes over WordPress — pixel-perfect, Figma-import, høj designfrihed. WordPress vurderes for restriktiv.
+- Webshop med lagerstyring inkl. restlager. Betalingsløsning: Stripe er mulighed, ikke endeligt besluttet.
+- Eventbooking integreres via eksternt system
+- Metode: Double Diamond. Nævnes ikke eksplicit i problemformuleringen for at bevare metodisk åbenhed. Alle designvalg skal kunne argumenteres fagligt.
+- Ads: Búzio ønsker kun organisk indhold på nuværende tidspunkt. Ads er ikke en del af leverancen.
 
 ---
 

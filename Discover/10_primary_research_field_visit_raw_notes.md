@@ -1,5 +1,5 @@
 # Búzio Taberna — Rå feltnoter, fredag 25. april 2026
-*Ubehandlede noter fra feltbesøg — se `buzio_feltbesoeg.md` for analyseret version*
+*Ubehandlede noter fra feltbesøg — se `09_primary_research_field_visit.md` for analyseret version*
 
 ---
 
@@ -79,4 +79,4 @@
 
 ---
 
-*Rå noter — ikke redigeret for indhold. Se `buzio_feltbesoeg.md` for analyserede konklusioner per datakilde.*
+*Rå noter — ikke redigeret for indhold. Se `09_primary_research_field_visit.md` for analyserede konklusioner per datakilde.*

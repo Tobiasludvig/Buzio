@@ -1,6 +1,10 @@
 # Búzio — Social Media & Følgeranalyse
 *Sekundær research · April 2026*
 
+## Metodisk note
+
+Instagram og TikTok blokerer direkte scraping via robots.txt, og følgerlister er ikke tilgængelige uden autentificeret adgang. Rapporten kombinerer: (1) verificerbare offentlige profil-metadata, (2) detailanalyse af identificerede UGC-skabere og deres selvbeskrevne profiler, (3) hashtag-analyse fra indexerede TikTok-søgeresultater, og (4) Untappd check-in data. Konklusioner om følgerinteresser er inferenceret fra primærdata og valideres af interviewdata med Martin. Konfidensgraden er angivet per sektion.
+
 ---
 
 ## Platform-snapshot (verificeret april 2026)
@@ -28,11 +32,54 @@ Tre verificerede TikTok-profiler identificeret:
 
 ---
 
+## Øvrige platforme
+
+**Untappd** (øl-check-in platform): Taberna Búzio har check-ins fra bl.a. Andreas Rydahl ("Fedt koncept 🫶, stemningen tilføjer nogle point") og PapaV ("best or maybe most funny choice at this Portuguese based wine bar"). Brugergruppen her er lidt anderledes: primært ølentusiaster, mere mænd, mere fagligt orienterede. Det viser at Búzio faktisk rammer begge sider: vinkvinderne og ølfolk der falder for konceptet.
+
+**Visit Copenhagen:** Búzio er listet med fuld profil og fremstår som del af den officielle Copenhagen food-guide. Sandsynligvis driver dette trafik fra turister og internationalt besøgende — konsistent med Wilmas observation om at der kommer turister men ikke som walk-in fra gaden.
+
+---
+
 ## Følgerstikprøve (N=30)
 
 *Manuel gennemgang af 30 offentlige Instagram-følgerprofiler.*
 
 Ikke statistisk repræsentativ. Anvendes som kvalitativt supplement til UGC-analyse og interviewdata. Private profiler med nul opslag er medtaget som kategori men kan ikke indholdsmæssigt analyseres.
+
+### Rådata — identificerede profiler
+
+| Følger | Offentlige kendetegn | Følgere (ca.) | Kategori |
+|---|---|---|---|
+| zabrudskaa (Polina) | Digital creator, "Slavic girl in Copenhagen", deler outfits og cafébesøg | 15.000 | Digital skaber / livsstil |
+| mandynovabby (Amanda Nova Von Eybye Broe) | Personlig livsstil, rejser og venneaktiviteter | 1.000 | Personlig livsstil |
+| pilateswithjos (Josefin Jinx) | Pilates-instruktør, mindfulness, link til Spotify-playliste, Stockholm | 5.000 | Sundhed / fitness |
+| sidselhindhede (Sidsel Hindhede) | Dansk skuespiller, repræsenteret af managementbureau, IMDb-profil | 4.900 | Kunstner / underholdning |
+| sisbaek (Sofie Bæk) | Meget lille privat profil, 1 opslag, ~30 følgere | 30 | Privat ven / bekendt |
+| goldsmithtash (Natasha Goldsmith) | Privat konto, ingen offentlige opslag | 600 | Privat konto |
+| stineheintzelmann (Stine Munch Heintzelmann) | Arbejder hos Vipp, deler rejser, arkitektur og design | 1.500 | Professionel design / livsstil |
+| victoriabondeskov (Victoria Bondeskov) | SoMe-koordinator for Camille Brinch, lifestyle og rejser | 1.800 | SoMe / branding |
+| cecillierosentoft (Cecilie Qvist Rosentoft) | Lifestyle-blogger, highlights "Japan26", "foodie", "bryllup" | 1.700 | Rejse / madblog |
+| barbara_o_b (Barbara Oxholm Bloch) | Privat konto med link til @babben.design | 1.000 | Privat / designrelateret |
+| miaisabellabeck (Mia Isabella Beck) | "Curated diary", highlights fra Bangkok, Nepal og Zanzibar | 1.600 | Rejse / dagbog |
+| annettejuma (Annette Juma) | Atletprofil, 6,32 sek. løbsrekord, klub @kifatletik | 2.400 | Sport |
+| conted.ete | Privat konto, humoristisk bio om "absolutely nothing" | 400 | Privat / humor |
+| pedrofjeronimo (Pedro Jerónimo) | Privat person, 21 opslag, ingen bio | 500 | Privat / bekendt |
+| madeleineheilmann (Madeleine Heilmann) | Digital creator, driver børne-/designbutikken Sunbeam CPH | 12.000 | Entreprenør / influencer |
+| vilhelmiv (Morten Vilhelm) | Skuespiller og musiker, poster personligt og professionelt indhold | 580 | Kunstner / underholdning |
+| maisesabine (Maise Sabine) | Mode og livsstil, portrætter og tøj | 1.400 | Personlig mode / livsstil |
+| kunsthojskolen (Kunsthøjskolen i Holbæk) | Institutionel konto, "Plads til kunst" | 5.100 | Institution / kunst |
+| mikkeltarbo | Rejse og livsstil, natur-emoji | 3.300 | Rejse / livsstil |
+| wanna.omar | Privat familieprofil, 43 opslag | 450 | Privat familie |
+| idaralkov (Ida Ralkov) | Bio angiver "PR @hm", personlig konto | 1.900 | PR / fashion |
+| bex.thomassen (Rebecca Thomassen) | Link til "erdetfredag.dk", ingen opslag | 449 | Personlig / produkt |
+| lauramortensn (Laura M. K. Mortensen) | 0 opslag, highlights sorteret efter år | 402 | Privat / passiv |
+| frederikkeschoen (Frederikke Alberte Schoen) | Privat, 46 opslag | 739 | Privat |
+| _sofiesch (Sofie Schønnemann) | Åben profil, highlights "work" og hverdag, 2,2k følgere | 2.200 | Ung professionel / livsstil |
+| katrinehvj (Katrine Hoffmann Vogh Jensen) | Highlights "Hyg" og "SMR20", venner og rejser | 500 | Personlig livsstil |
+| william_vaamonde (William Vaamonde) | Privat profil, profilbillede med tekst "Status: Anholdt" | 87 | Privat / satirisk |
+| siirtilif (Siir Tilif) | Producer/manager i film og TV, Sharkey & Co, co-founder filmorganisation, WIFT Denmark, IMDb | 1.100 | Professionel film / TV |
+| pedro_miguelferreira (Pedro Ferreira) | Privat, 117 opslag, ingen bio | 526 | Privat |
+| alma.rosenmeier (Alma Rosenmeier) | Link til @socialworksmgmt, 37 opslag | 1.300 | Kreativ / fashion / management |
 
 ### Segment 1: Kultureliten — validerer H5
 

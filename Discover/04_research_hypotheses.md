@@ -10,9 +10,9 @@
 | H1 | Vin er feminint kodet → Búzio tiltrækker uforholdsmæssigt mange kvinder | Stærk | Nej |
 | H1a | Gæster prioriterer oplevelseskvalitet over kvantitet | Stærk | Nej |
 | H2 | Kvinder driver organisk Instagram-vækst via et selvforstærkende loop | Delvist (platformsnuance) | Delvist |
-| H3 | Físisk oplevelse overgår digitalt førstehåndsindtryk markant | Delvist | Ja |
+| H3 | Físisk oplevelse overgår digitalt førstehåndsindtryk markant | **Stærkt** | Nej — primær data indsamlet |
 | H4 | Hverdagsbarrieren er mental, ikke praktisk | Interview-data | Ja |
-| H5 | Vækst drives af kulturelt netværk via mund-til-mund | Interview-data | Ja |
+| H5 | Vækst drives af kulturelt netværk via mund-til-mund | Interview-data + feltbesøg (sårbarhedsnuance) | Delvist |
 
 ---
 
@@ -46,7 +46,9 @@
 ## H3 — Det digitalt-fysiske gab
 **Påstand:** Búzio kontrollerer ikke sin digitale fortælling. UGC-skabere udfylder hullet med subjektive førstehåndsindtryk der er bedre end Búzios eget indhold.
 
-**Belæg:** Petronellas og Lucias videoer indikerer begge at oplevelsen oversteg forventningerne. Definitorisk: det er et digitalt-fysisk gab. Kræver survey for at kvantificere.
+**Belæg:** Petronellas og Lucias videoer indikerer begge at oplevelsen oversteg forventningerne. Definitorisk: det er et digitalt-fysisk gab.
+
+**Opdateret 25. april 2026 — feltbesøg:** H3 er nu stærkt understøttet. Feltbesøget leverede for første gang direkte empirisk belæg: aftenatmosfæren (stearinlys, afdæmpet lys, intim tæthed) er fundamentalt forskellig fra det visuelle udtryk på Búzios Instagram og hjemmeside. Gabet er ikke inferenceret fra andres udsagn — det er direkte observeret. Yderligere bekræftet internt: bartender Wilma beskriver selv at hun ønsker flere stemningsbilleder og oplever et internt behov for at lukke gabet. Tidligere status "delvist understøttet" var baseret udelukkende på UGC — den direkte observation løfter det til "stærkt understøttet." Se `09_primary_research_field_visit.md`.
 
 **Surveyvaliering:** *Hvad forventede du af Búzio inden første besøg — levede oplevelsen op til forventningen?*
 
@@ -65,6 +67,8 @@
 **Påstand:** Vækst er drevet af et indflydelsesrigt netværk. Den virale TikTok-omtale er forlængelse af samme mekanisme digitalt.
 
 **Belæg:** Følgerstikprøve verificerer kulturpersonligheder: @sidselhindhede (skuespiller), @siirtilif (filmproducer), @vilhelmiv (skuespiller/musiker). TikTok-skabere er én ring ud fra kultureliten — den kulturelt orienterede 25–35-årige — og bærer budskabet videre.
+
+**Sårbarhedsnuance tilføjet 25. april 2026 — feltbesøg:** Feltbesøgets gæstegruppe-interview tilføjer en vigtig nuance: den mest ekstreme form for loyalitet (stamgæster der har holdt nytår på stedet og kommer hver weekend) er forankret i interpersonelle relationer til personalet — ikke i brandoplevelsen selv. Det understøtter mekanismen i H5, men identificerer en sårbarhed: mund-til-mund-loyalitet der er personrelationsbaseret er mere skrøbelig end loyalitet der er forankret i brandet. Hvis nøglepersonale skifter, ryger dele af den loyale kerne med. Denne nuance bør adresseres i brandstrategi og content. Se `09_primary_research_field_visit.md`.
 
 **Surveyvaliering:** *Hvordan hørte du første gang om Búzio?*
 

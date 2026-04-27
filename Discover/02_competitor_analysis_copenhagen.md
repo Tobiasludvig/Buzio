@@ -1,6 +1,8 @@
 # Búzio — Konkurrentanalyse: Nøglefund
 *Sekundær research · April 2026*
 
+*Dette er den strategiske sammenfatning. Se [08_competitor_swot_full_report.md](08_competitor_swot_full_report.md) for den fulde SWOT-rapport med deep-dives, head-to-head tabeller og kildeoversigt per konkurrent.*
+
 ---
 
 ## Konklusionen på ét ord

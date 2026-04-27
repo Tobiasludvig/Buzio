@@ -5,7 +5,7 @@
 
 ## Hvad vi arbejdede med
 
-Målgruppeplacering i Gallup Kompas baseret på sekundær research og interviewdata. Skitsering af proto-personaer. Survey kører parallelt (20/60 respondenter pr. dato).
+Gennemgang af sekundær research (se `05_social_media_and_follower_analysis.md`) og interview-data (se `01_primary_research_interview_martin.md`) med henblik på at placere Búzios målgruppe i Gallup Kompas og skitsere proto-personaer. Survey kører parallelt — 20/60 respondenter pr. 21. april.
 
 ---
 
@@ -48,9 +48,23 @@ Sekundær/TikTok-drevet segment. Skandinavisk eller international baggrund med s
 
 ---
 
+## Hypotesestatus (pr. 21. april 2026)
+
+| Hypotese | Status | Belæg |
+|---|---|---|
+| H1 — Feminint kodet drikkevalg | Stærkt understøttet | 2 datakilder konvergerer |
+| H1a — Oplevelseskvalitet over kvantitet | Stærkt understøttet | UGC + interview |
+| H2 — Instagram-loop | Delvist understøttet | TikTok > Instagram for discovery — platformsnuance |
+| H3 — Digitalt-fysisk gab | *Opdateret efter feltbesøg 25/4: stærkt understøttet* | Se `04_research_hypotheses.md` |
+| H5 — Mund-til-mund via kulturelite | Stærkt understøttet — med sårbarhedsnuance | Kulturpersonligheder verificeret i følgerbase |
+
+**Åbent spørgsmål:** Er Lucia C. et selvstændigt segment eller underkategori af Sofie B.? To scenarier bør forberedes inden Define-fasen — afgøres af survey.
+
+---
+
 ## Næste skridt
 
-- [ ] Feltobservation fredag på Búzio — observationsguide inden. Fokus: hvem sidder der, interaktion med ølritualet, hvad fotograferes
+- [x] Feltobservation fredag på Búzio — gennemført 25. april, se `09_primary_research_field_visit.md`
 - [ ] Luk survey ved 60 respondenter — prioriter H3, H4, H5
 - [ ] Opdater proto-personaer efter survey + observation
 - [ ] Skriv user stories per persona og per occasion som fundament for Value Proposition Canvas

@@ -1,6 +1,8 @@
 # Búzio Taberna — Competitor SWOT Report
 *Copenhagen wine-bar landscape · April 2026*
 
+*Se [02_competitor_analysis_copenhagen.md](02_competitor_analysis_copenhagen.md) for strategisk sammenfatning af nøglefund og konkurrentkort.*
+
 ---
 
 ## 0. Executive Summary
@@ -332,4 +334,4 @@ Búzio sits almost alone in the upper-right of "high cultural specificity + wine
 
 ---
 
-*Report compiled April 2026. Competitive landscape snapshot — revisit in 6–12 months as new openings and concept pivots emerge.*
+*Rapport udarbejdet april 2026. Competitive landscape snapshot — revisit in 6–12 months as new openings and concept pivots emerge.*
